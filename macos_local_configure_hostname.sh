@@ -22,7 +22,7 @@
 
 cd /tmp
 
-wget https://raw.githubusercontent.com/jamesawhiteiii/cidse-mac/master/master/macos_sethostnamejamf.sh
+curl -o https://raw.githubusercontent.com/jamesawhiteiii/cidse-mac/master/master/macos_sethostnamejamf.sh
 
 
 sh /tmp/macos_sethostnamejamf.sh

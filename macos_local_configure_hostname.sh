@@ -25,6 +25,6 @@ cd /tmp
 wget https://raw.githubusercontent.com/jamesawhiteiii/cidse-mac/master/master/macos_sethostnamejamf.sh
 
 
-sh /tmp/https://raw.githubusercontent.com/jamesawhiteiii/cidse-mac/master/macos_sethostnamejamf.sh
+sh /tmp/macos_sethostnamejamf.sh
 
 exit 0

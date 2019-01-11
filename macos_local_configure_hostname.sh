@@ -24,6 +24,6 @@ cd /tmp
 
 wget https://raw.githubusercontent.com/jamesawhiteiii/cidse-ubuntu/master/provisioning/firstlogin_live.sh
 
-sh /tmp/https://raw.githubusercontent.com/jamesawhiteiii/cidse-ubuntu/master/provisioning/firstlogin_live.sh
+sh /tmp/https://raw.githubusercontent.com/jamesawhiteiii/cidse-mac/master/macos_sethostnamejamf.sh
 
 exit 0

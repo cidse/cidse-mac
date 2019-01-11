@@ -30,7 +30,8 @@ echo "The hostname will be set to: $ComputerName"
 scutil --set HostName $ComputerName
 scutil --set LocalHostName $ComputerName
 scutil --set ComputerName $ComputerName
-
+#Contact Jamf Server, send updated records
+jamf recon
 echo Rename Successful
 }
 
@@ -38,7 +39,7 @@ echo Rename Successful
 ComputerName=$(machinename)
 renameComputer
 
-###Launch orachard.asu.edu in browser
+###Launch orchard.asu.edu in browser
 echo "********************************************"
 echo "***    Redirecting to Jamf Pro Server    ***"
 echo "********************************************"

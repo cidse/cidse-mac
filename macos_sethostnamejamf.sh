@@ -38,7 +38,7 @@ echo Rename Successful
 ComputerName=$(machinename)
 renameComputer
 
-###Launch orachard.asu.edu in browser
+###Launch orchard.asu.edu in browser
 echo "********************************************"
 echo "***    Redirecting to Jamf Pro Server    ***"
 echo "********************************************"
